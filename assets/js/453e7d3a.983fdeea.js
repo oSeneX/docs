@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksnxdocs=self.webpackChunksnxdocs||[]).push([[239],{2048:e=>{e.exports=JSON.parse('{"title":"snx_core","description":"snx core","slug":"/category/snx_core","permalink":"/docs/category/snx_core","navigation":{"previous":{"title":"Home","permalink":"/docs/"},"next":{"title":"Installation","permalink":"/docs/snx-core/installation"}}}')}}]);
